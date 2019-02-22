@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="atlas-sms-python",
+    name="atlas-sms-test",
     version="0.0.1",
     author="Oreoluwa Ojo ",
     author_email="oreeboy@gmail.com",
